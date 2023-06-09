@@ -1,0 +1,4 @@
+[ERROR] [5/5/2023 2:41:33] setup: ReferenceError: channels is not defined
+    at Object.execute (C:\Users\topra\Desktop\DiscordV14-Bot-Music-Button-main\commands\setup.js:70:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (C:\Users\topra\Desktop\DiscordV14-Bot-Music-Button-main\events\interactionCreate.js:15:13)

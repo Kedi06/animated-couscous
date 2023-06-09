@@ -1,0 +1,9 @@
+[ERROR] [8/5/2023 5:9:0] setup: DiscordAPIError[50013]: Missing Permissions
+    at handleErrors (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\node_modules\@discordjs\rest\dist\index.js:640:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\node_modules\@discordjs\rest\dist\index.js:1021:23)
+    at async SequentialHandler.queueRequest (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\node_modules\@discordjs\rest\dist\index.js:862:14)
+    at async REST.request (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\node_modules\@discordjs\rest\dist\index.js:1387:22)
+    at async GuildChannelManager.create (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\node_modules\discord.js\src\managers\GuildChannelManager.js:170:18)
+    at async Object.execute (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\commands\setup.js:42:26)
+    at async Object.execute (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\events\interactionCreate.js:15:13)

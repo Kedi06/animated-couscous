@@ -1,0 +1,4 @@
+[ERROR] [7/5/2023 18:0:18] setup: TypeError: Cannot read properties of undefined (reading 'length')
+    at Object.execute (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\commands\setup.js:33:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.execute (C:\Users\topra\Desktop\Mr.Cat Ultra lüks\events\interactionCreate.js:15:13)
